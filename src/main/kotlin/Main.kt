@@ -53,7 +53,7 @@ class BlackjackCommand: CliktCommand() {
                 "initialized" -> "Start a round!"
                 "running" -> "Choose an option!"
                 "win" -> "You won!"
-                "lose" -> "You won!"
+                "lose" -> "You lost!"
                 "tie" -> "You tied!"
                 "overflow" -> "You went over 21 and lost!"
                 "blackjack" -> "You got a blackjack and won!"
